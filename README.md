@@ -1,1 +1,2 @@
-# Taxa \nA repository for a taxonomic library
+# Taxa 
+A repository for a taxonomic library
