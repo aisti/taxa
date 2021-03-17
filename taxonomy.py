@@ -3,10 +3,10 @@ import os
 
 class Taxon(object):
 
-    def __init__(self, name, parent=None):
+    def __init__(self, name, parent=None, description=None):
         self.name = name
         self.children = []
-        self.description = None
+        self.description = description
         self.level = 1
         self.gallery = []
         self.properties = {}
