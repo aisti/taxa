@@ -1,0 +1,19 @@
+# test
+writing system
+ alphabet
+  greek
+  cyrillic
+  latin
+   czech
+ abjad
+  # semitic:
+  arabic
+   farsi
+  hebrew
+   yiddish
+ abugida
+  hindi
+ syllabary
+  cherokee
+ logogram
+  mandarin
